@@ -23,8 +23,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
 <p>&emsp;&emsp;嗨，你好，我是小郝同学。热爱编程、户外、运动。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
@@ -36,14 +34,11 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
 - [美团](https://www.meituan.com/) &emsp; 📌 2024-06 —— 至今
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：flutter、Vue、React、React Native 开发。
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
 - [百度](https://www.baidu.com/) &emsp; 📌 2023-06 —— 2023-09
 
