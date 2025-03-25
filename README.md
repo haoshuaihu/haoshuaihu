@@ -22,12 +22,12 @@
 ### 📈 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haoshuaihu&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🏆 贡献 & 活跃度  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoshuaihu&layout=compact&theme=radical)
 
 ---
 
