@@ -1,15 +1,25 @@
-<h1 align="center">Hi there 👋, I'm [郝帅虎]</h1>
-<h3 align="center">A passionate developer from [北京市]</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haoshuaihu&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <h1 align="center">Hi there , I'm 郝帅虎</h1>
 
-- 🔭 I’m currently working on **[你的项目或公司]**
-- 🌱 I’m currently learning **[你正在学习的技术或技能]**
-- 💬 Ask me about **[你的专长]**
-- 📫 How to reach me: **[你的邮箱或社交媒体]**
-- ⚡ Fun fact: **[有趣的个人特点]**
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
 
 ### 🚀 技术栈 | Tech Stack
 
@@ -19,11 +29,6 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 📈 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haoshuaihu&theme=radical" alt="GitHub Streak" />
-</p>
 
 ### 🏆 贡献 & 活跃度  
 
