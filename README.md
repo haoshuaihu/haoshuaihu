@@ -21,6 +21,39 @@
 
 </div>
 
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是小郝同学。热爱编程、户外、运动。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+
+### 🏢 Work Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+
+- [美团](https://www.meituan.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+
+  - 工作岗位：Web 前端开发工程师
+  - 工作内容：flutter、Vue、React、React Native 开发。
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+- [百度](https://www.baidu.com/) &emsp; 📌 2023-02-20 —— 2023-05-12
+
+  - 工作岗位：Android 开发实习生
+  - 工作内容：参与百度网盘安卓移动端开发。
+
+</td></tr>
+
+<tr><td>
+
 ### 🚀 技术栈 | Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
