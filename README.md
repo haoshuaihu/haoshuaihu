@@ -32,22 +32,6 @@
 
 <tr><td>
 
-### 🏢 Work Experience
-
-- [美团](https://www.meituan.com/) &emsp; 📌 2024-06 —— 至今
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：flutter、Vue、React、React Native 开发。
-
-
-- [百度](https://www.baidu.com/) &emsp; 📌 2023-06 —— 2023-09
-
-  - 工作岗位：Android 开发实习生
-  - 工作内容：百度网盘
-
-</td></tr>
-
-<tr><td>
 
 ### 🚀 技术栈 | Tech Stack
 
